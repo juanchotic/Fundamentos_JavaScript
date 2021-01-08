@@ -1,0 +1,18 @@
+Estructura del IF
+
+if (condición) {
+   // Código aquí
+   //...
+}
+
+------Terminología----------
+(Parentisis)
+[Corchetes]
+{Llaves}
+
+
+if(a<50){
+   alert("Es verdadero")
+}
+
+Si es verdadero el código se ejecuta

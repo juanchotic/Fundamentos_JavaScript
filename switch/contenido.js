@@ -1,4 +1,5 @@
-var combustible = "Diesel";
+var nombreUsuario = prompt("Ingresa tu nombre: ");
+var combustible = prompt("Ingresa el Combustible a usar: \nSelecciona Una de las opciones disponibles: \n1.Diesel \n2.Super97 \n3.Super95");
 
 
 
@@ -14,14 +15,14 @@ if (combustible == "Super95") {
 */
 
 switch (combustible) {
-   case "Diesel":
-      alert("1,02$");
+   case "1":
+      document.write("Hola, "+nombreUsuario +" El Diesel te cuesta $8.000 Pesos Colombianos");
       break;
-   case "Super97":
-      alert("1,45$");
+   case "2":
+      document.write("Hola, "+nombreUsuario +" El Super97 te cuesta $11.000 Pesos Colombianos");
       break;
-   case "Super95":
-      alert("1,56$");
+   case "3":
+      document.write("Hola, "+nombreUsuario +" El Super95 te cuesta $13.000 Pesos Colombianos");
       break;
 
    default:

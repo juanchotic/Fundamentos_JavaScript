@@ -1,0 +1,10 @@
+Las iteraciones son repeticiones.
+
+Se le debe decir cuando repetirse y cuando parar.
+
+
+var a = 1; CREAR LA VARIABLE
+while (a < 10){ TRUE --- ESTRUCTURA DE CONTROL
+    alert(a); BUCLE INFINITO
+    a++; CON ESTA VARIABLE EL PROGRAMA VALIDA
+} FINAL DE LA FUNCIÓN

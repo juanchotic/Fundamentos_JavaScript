@@ -1,0 +1,12 @@
+for (var i =1; i<10;i++){ Ocurren dentro del parentisis
+    haz cosas
+}
+
+do while -----------------------
+
+var a=1; crear variable
+
+do {
+    // tu codigo
+    a++; iterador
+} while (a<10); verifico condicion

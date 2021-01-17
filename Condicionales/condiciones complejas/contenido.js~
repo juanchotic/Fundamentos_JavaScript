@@ -1,0 +1,9 @@
+var balance = 5000;
+
+if (balance >= 0){
+   alert("El balance es positivo");
+} else {
+ alert("El balance es Negativo");
+}
+
+

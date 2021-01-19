@@ -35,3 +35,33 @@ finaliza
 
 
 ESBOZAR - RESOLVER - DUDAS Y RESOLVER
+
+
+###########################################################################
+
+Entradas, salidas y persistencia en programación
+
+###########################################################################
+
+Leyendo y escribiendo en el DOM
+
+JS no es un lenguaje de uso general
+Trabaja con el navegador
+Trabaja con el DOM
+
+
+--------------- DOM -------------------
+
+JS trabaja con las Paginas Web
+JS toma datos de Entradas
+Procesa datos y los devuelve en pantalla
+
+DOCUMENTO - Propia pagina web que se carga dentro del navegador
+
+OBJETOS - Piezas que componen los elementos "Etiquetas HTML"
+MODELO - Relacion documento-OBJETOS
+
+Document Object Model - Piezas que trabajan sobre una pagina web
+
+Que puedo hacer?
+Texto - segundo paragrafo - color de fondo - mover logo - cambiar enlace cuando pulses sobre el

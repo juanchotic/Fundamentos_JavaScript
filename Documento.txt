@@ -1,0 +1,37 @@
+ESCRIBIENDO PSEUDOCODIGO -------------------
+
+El codigo debe ser legible e interpretable por un humano
+
+
+EJEMPLO::::::::::::::::::::
+
+pregunta al usuario por su email
+
+si la direccion cuadra con un patron determinado
+    ponlo en la lista de emails
+sino
+    muestra un mensaje de error
+
+
+NOTA: SER LEGIBLE CON EL codigo
+
+------------------------------------------------
+
+EJEMPLO 2
+
+pon el total a cero
+
+toma una lista de números
+
+recorre los números de la lista 
+    suma el número al total
+finaliza el bucle
+
+si el número es más que cero    
+    imprime "es positivo"
+si no
+    imprime "es cero o menos"
+finaliza
+
+
+ESBOZAR - RESOLVER - DUDAS Y RESOLVER

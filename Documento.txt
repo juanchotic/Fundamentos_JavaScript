@@ -65,3 +65,11 @@ Document Object Model - Piezas que trabajan sobre una pagina web
 
 Que puedo hacer?
 Texto - segundo paragrafo - color de fondo - mover logo - cambiar enlace cuando pulses sobre el
+
+
+###########################################################################################################
+
+PROGRAMACION ORIENTADA A EVENTOS
+
+carga de pagina - mover raton - scrol - pulsaciones
+

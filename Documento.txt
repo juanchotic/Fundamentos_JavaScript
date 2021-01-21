@@ -73,3 +73,23 @@ PROGRAMACION ORIENTADA A EVENTOS
 
 carga de pagina - mover raton - scrol - pulsaciones
 
+###########################################################################################################
+
+DEPURACIÓN
+
+Probabilidad de error alta
+Operadores, puntos y comas, sintaxis
+
+No esperamos que el código funcione a la primera
+Se construyen poco a poco
+Si hay errores se depuran y se arreglan
+
+APRENDER A ENCONTRAR ERRORES EFICAZMENTE
+
+- ERRORES DE SINTAXIS
+- PROBLEMAS DE LÓGICA
+    - ERRORES ARITMETICOS
+
+
+    1. REPRODUCIR EL PROBLEMA
+

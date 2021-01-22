@@ -34,3 +34,15 @@ FIN DEL PROGRAMA --- TODOS ORDENADOS
 HAY MUCHOS ALGORITMOS DE ORDENACIÓN.
 
 Vuelve e inicia.
+
+
+#_#_#_#_#_#_#_#_#_#_#_#_#__#_#_#_#_#_#_#_#_#_#_#_#_#
+
+MULTITAREA
+
+Ejecucion de multiples programas a la vez
+
+RETOS
+- Competencia por recursos
+- Restricciones en las actualizaciones de la GUI
+- Soporte por parte de lenguajes

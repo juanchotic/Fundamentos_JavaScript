@@ -52,4 +52,10 @@ COLECCIONES -> ARRAY
 La palabra new es una palabra reservada, creando un
 nuevo objeto derivado de la clase.
 
+PARA ELEGIR UN LENGUAJE ES MUY IMPORTANTE ELEGIR 
+QUE CLASES YA TIENE DICHO LENGUAJE.
+
+
+
+
 

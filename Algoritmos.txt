@@ -1,0 +1,36 @@
+Algoritmos
+
+Es una serie de pasos que resuelven un problema.
+Modelo conceptual de como resolver un problema.
+
+ORDENACIÓN POR BURBUJA
+
+61 13 72 47 14
+
+COMPARAR 61 - 13
+13 61 72 47 14
+COMPARAR  61 - 72
+COMPARAR 72 - 47
+13 61 47 72 14
+COMPARAR 72 14
+13 61 47 14 72
+
+--------------- SE DEVUELVE ----------
+
+COMPARAR 14 74
+COMPARAR 47 14
+13 61 14 47 72
+COMPARAR 61 14
+13 14 61 47 72
+COMPARAR 13 14
+COMPARAR 14 61
+COMPARAR 61 47
+13 14 47 61 72
+COMPARAR 61 72
+FIN DEL PROGRAMA --- TODOS ORDENADOS
+
+##################################################
+
+HAY MUCHOS ALGORITMOS DE ORDENACIÓN.
+
+Vuelve e inicia.

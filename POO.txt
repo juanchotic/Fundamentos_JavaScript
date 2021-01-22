@@ -24,3 +24,32 @@ Puede crear multiples objetos una clases
 ENCAPSULACIÓN
 
 Meterlos en una caja siempre que lo necesitemos
+
+EL OBJETO DATE EN JS
+
+var hoy = new Date();
+var y2k = new Date(2000,0,1);
+
+hoy.getMonth(); = 0-11
+
+Comportamientos asociados a este objeto
+
+METODOS SET DEL OBJETO DATE
+var hoy = new Date();
+hoy.setMonth(5);
+
+
+OBJETO MATH (OPERACIONES MATEMATICAS)
+
+var x = 200.6;
+var y = Math.round(x);   - > 201
+
+var masgrande = Math.max(a,b,c);
+
+
+COLECCIONES -> ARRAY
+
+La palabra new es una palabra reservada, creando un
+nuevo objeto derivado de la clase.
+
+

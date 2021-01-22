@@ -1,0 +1,26 @@
+Lenguajes orientados a objetos
+-------------------------------
+
+Cada objeto representa una parte del programa
+Representar como nosotros los seres humanos pensamos
+
+TERMINOS
+- CLASE: PLANTILLA, DESCRIPCION (PLANO)
+
+atributos
+    nombre
+    altura
+    peso
+    genero
+    edad
+comportamiento
+    caminar
+    correr
+    saltar
+- OBJETO
+Se crean desde las clases
+Puede crear multiples objetos una clases
+
+ENCAPSULACIÓN
+
+Meterlos en una caja siempre que lo necesitemos

@@ -140,3 +140,9 @@ Saber que librerias hay para cada lenguaje
 Debes ser capaz de navegar dentro de la libreria
 y encontrar el elemento que soluciona el
 problema concreto que tienes en un momento dado.
+
+Los lenguajes basados en C se usan para desarrollar juegos .
+Una de las características del lenguaje Java es que está orientado a objetos .
+Python es un lenguaje mutiplataforma que necesita tener un intérprete instalado en el sistema operativo correspondiente.
+Cocoa es la amplia librería de la que dispone Objective C.
+

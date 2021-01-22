@@ -1,0 +1,122 @@
+Introducción a los lenguajes
+
+
+Lenguajes mas nuevos, famosos y utilizados.
+
+C -----------------------------------------------
+
+Mas influenciado
+Es estructurado
+No tiene POO
+Bajo nivel
+Compilado
+intermedio a avanzado
+
+Juegos, utilidades, SO, sistemas embebidos
+Padre de todos los lenguajes
+Es un lenguaje tipificado (Se declara el tipo de variable)
+
+LIBRO: THE C PROGRAMMING LANGUAJE ("K&R)
+
+C++ ----------------------------------------------
+
+
+
+C# - VISUAL BASIC ----------------------------------------------
+
+2003 Orientado a OBJETOS
+alto nivel
+compilacion hibrida
+tipificacion estricta
+recogida de basura 
+intermedio
+
+Apps de escritorio
+web apps: "asp.net"
+aplicaciones moviles "WINDOWS PHONE"
+
+JAVA----------------------------------------------
+
+ES ORIENTADO A OBJETOS
+alto nivel
+compilacion hibrida
+tipificacion estricta
+recoleccion de basura
+intermedio
+
+multiplataforma
+aplicaciones de escritorio
+aplicaciones moviles en android
+Todo se encapsula dentro de una clase
+
+JAVASCRIPT----------------------------------------------
+
+
+PERL----------------------------------------------
+
+
+PHP----------------------------------------------
+
+
+PYTHON----------------------------------------------
+
+Orientado a OBJETOS
+amplia libreria 
+
+alto nivel
+interpretado
+tipificacion
+recoleccion de basura
+principiante e intermedio
+
+multiplataforma
+web apps
+lenguajes embebidos de scripting
+
+
+OBJECTIVE-C----------------------------------------------
+ 1980
+ Libreria COCOA
+ orientado a OBJETOS
+ amplia libreria (COCOA)
+ alto nivel
+ Compilado
+ cuenteo de referencias
+ tipificacion estricta
+ intermedio y avanzado
+
+ DESARROLLO APPLE   
+ DESARROLLO PARA EL ESCRITORIO DE APPLE
+ IOS
+
+ VENDIDO POR NEST STATE A APPLE
+
+ EDITOR / IDE 
+
+ Xcode
+developer.apple.com GUIAS Y REFERENCIAS 
+
+RUBY----------------------------------------------
+
+Creado en JAPON
+Orientado a OBJETOS
+alto nivel 
+interpretado
+recoleccion de basura
+principiante 
+intermedio
+
+multiplataforma
+web apps: Ruby on Rails (Framework)
+utilidades
+
+No se necesitan metodos Main
+No hay punto 
+def (definir funciones)
+
+EDITORES / IDE
+
+TextMate
+RubyMine
+Aptana
+----------------------------------------------
